@@ -8,7 +8,7 @@ Welcome to the Protei-IT-School-Homework repository! This repository contains as
 
 ## Homework results
 
-Here are some websites I have made an hosted during the IT school:
+Here are some websites I have made and hosted during the IT school:
 
 1. [Rumtibet](https://oldortem.github.io/rumtibet/) 
 2. [Countrylist](https://oldortem.github.io/jsDOM-basics/) 
